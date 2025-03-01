@@ -22,7 +22,7 @@ def home():
             </style>
         </head>
         <body>
-            <h1>Hello, my name is <span class="highlight">Usama</span> and this is my app!</h1>
+            <h1>Hello, my name is <span class="highlight" color:"red">Usama</span> and this is my app!</h1>
         </body>
     </html>
     """
